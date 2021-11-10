@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @raszanin
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning Node/React
+- 📫 raszanin@gmail.com
