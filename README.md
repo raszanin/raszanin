@@ -2,15 +2,13 @@
 
 
 
-
-
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning NodeJS/React/ReactNative
 - 👯 I’m looking to collaborate on **GitHub**.
 
 
 
-
+___
 
 ## 💼 Tech Stack
 
@@ -35,6 +33,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raszanin&show_icons=true&theme=dracula&include_all_comsits=true&count_private=false"/>    
 </div>
 
+___
+  
 ## 💬 Connect with me : 
 
 <a href="https://www.linkedin.com/in/raszanin/">
@@ -49,4 +49,11 @@
   <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40"/>
 </a> 
 
-![Visitor Count](https://profile-counter.glitch.me/rasznin/count.svg)
+___
+
+<div align="center">   
+  ##### Profile visits
+  <p align="center"> 
+     <img height="25px" alingn="center" src="https://profile-counter.glitch.me/julianasinnott/count.svg" />
+  </p>
+</div>
