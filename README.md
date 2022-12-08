@@ -25,7 +25,7 @@ ___
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
 
 <div align="center">
-  <a href="https://github.com/julianasinnott">
+  <a href="https://github.com/raszanin">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raszanin&layout=compact&langs_count=7&theme=dracula"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raszanin&show_icons=true&theme=dracula&include_all_comsits=true&count_private=false"/>    
 </div>
