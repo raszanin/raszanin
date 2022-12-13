@@ -3,17 +3,15 @@
     <p>👋Hi there, I'm RobertoZanin!!</p>
   </h1>
 
-  <ul style="margin-top:30px; list-style-type: none" align='center'>
-    <li>
-      <p>👀 I’m interested in Development</p>      
-    </li>
-    <li>
-      <p>🌱 I’m currently learning NodeJS/React/ReactNative</p>
-    </li>
-    <li>
-      <p>👯 I’m looking to collaborate on **GitHub**.</p>
-    </li>
-  </ul>
+  <div>
+    <h3>👀 I’m interested in Development</h3>
+  </div>
+  <div>
+    <h3>🌱 I’m currently learning NodeJS/React/ReactNative</h3>
+  </div>
+   <div>
+    <h3>👯 I’m looking to collaborate on **GitHub**.</h3>
+  </div>
 
   <h2 style='margin-top: 60px'>💼 Tech Stack</h2>
   
