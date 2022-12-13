@@ -1,9 +1,9 @@
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <h1>
+<div align='center'>
+  <h1 align='center'>
     👋</a>Hi there, I'm RobertoZanin!!
   </h1>
 
-  <ul style="margin-top:30px">
+  <ul style="margin-top:30px; list-style: none" align='center'>
     <li>
       <p>👀 I’m interested in Development</p>      
     </li>
@@ -60,6 +60,4 @@
   <p align="center"> 
      <img height="25px" alingn="center" src="https://profile-counter.glitch.me/raszanin/count.svg" />
   </p>
-</div>
-
 </div>
