@@ -1,9 +1,9 @@
 <div align='center'>
   <h1 align='center'>
-    👋</a>Hi there, I'm RobertoZanin!!
+    <p>👋Hi there, I'm RobertoZanin!!</p>
   </h1>
 
-  <ul style="margin-top:30px; list-style: none" align='center'>
+  <ul style="margin-top:30px; list-style-type: none" align='center'>
     <li>
       <p>👀 I’m interested in Development</p>      
     </li>
